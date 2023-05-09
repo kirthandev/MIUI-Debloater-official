@@ -28,7 +28,7 @@ You need to download the Java SDK from the Oracle website then need to install
 - [Click Here for linux](https://www.oracle.com/java/technologies/downloads/#jdk20-linux)
 
 ## How to run the XiaomiADB tool
-- First need to download the tool, Then just double click on the file to run the program [Click here](https://www.dropbox.com/s/7d8qdahdlaxleik/Xiaomi%20ADB%20%26%20Fastboot%20Tools.jar?dl=0)
+- First need to download the tool, Then just double click on the file to run the program [Click here](https://github.com/kirthandev/MIUI-Debloater-official/blob/main/src/tools/Xiaomi%20ADB%20%26%20Fastboot%20Tools.jar)
 
 ## How to Turn on **USB debugging**
 - Go to "Settings" on the phone;
