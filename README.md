@@ -77,5 +77,48 @@ You need to download the Java SDK from the Oracle website then need to install
 
 *Select the apps you’d like to remove and click the uninstall button at the bottom. You can reinstall apps with the “reinstaller” menu if you unintentionally delete an app you don’t want to delete.*
 
+### Safe debloat list
+
+- Analytics
+- Android accessibility suite
+- app vault
+- browser
+- calendar
+- compass
+- Catchlog
+- digital wellbeing
+- downloads
+- fm radio
+- facebook
+- feedback
+- freeform
+- games
+- gmail
+- google app
+- google duo
+- google lens
+- joyose
+- msa
+- market feedback agent
+- mi credit
+- mi drop
+- mi pay
+- mi video
+- mi wallpaper
+- miui daemon
+- music
+- notes
+- PAI
+- Partner bookmarks
+- partner netflix activation
+- quick apps
+- quick ball
+- recorder
+- scanner
+- translation service
+- weather
+- WMService
+- yellow pages
+
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
